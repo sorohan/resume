@@ -1,0 +1,22 @@
+
+For the last 9 years I have worked for Bloomtools, building, from the ground up, one of the
+most fully featured and usable set of website and marketing tools in Australia. As Technical Lead,
+I have worked on every aspect of the software, from designing the MySQL database for the website's
+shop software, to tweaking CSS animations for the search forms on AJAX powered data-tables.
+
+First and foremost, my role is that of Senior PHP Developer, however my experience also extends to
+frontend development, system administration, and devops. I really enjoy both PHP and Javascript
+development and have spent most of my time working in these languages. I'm also not afraid to put
+PHP and Javascript to the side and use the right tool for the job. For example, I've recently spent
+time as a python programmer, writing a small consumer script to connect to a Beanstalkd message
+queue to set up a website's email account on a mail server.
+
+Being the senior developer has given me the freedom to introduce new technologies and processes
+to the company. In the last few years I have pushed Bloomtools to develop in a more agile way;
+migrating from SVN to git, and breaking development cycles into sprints has meant that code
+written yesterday can be used by customers tomorrow. I constantly enjoy learning new skills and
+sharing this knowledge with my team members.
+
+Kind Regards,
+
+Ben Sorohan

@@ -1,0 +1,8 @@
+{
+    "name" : "sorohan-resume",
+    "description" : "Ben Sorohan's Resume",
+    "author" : "Ben Sorohan",
+    "dependencies" : {
+        "pagedown" : ">= 1.1.0"
+    }
+}
